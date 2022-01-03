@@ -30,13 +30,13 @@ SD card must be formatted in FAT32.
 
 Main folder should contain the different options of the base menu. I have not been able to use descriptor names yet (I think it can be done but no lucky). So I used numbers. You have to use zero left padding in case of numbers from 1 to 9 as shown in the next image:
 
-![](train_sound_box/master/base_folder.PNG)
+![](images/base_folder.PNG)
 
 
 
 Inside of each folder you should fill it up with the different sounds. Here you need to use 2 zero left padding for number and, after a space, you can use a descriptor name:
 
-<img src="./train_sound_box/master/songs_in_folder.PNG" width="50%" />
+![](images/songs_in_folder.PNG)
 
 Each song must be in MP3 format.
 
@@ -44,7 +44,7 @@ Each song must be in MP3 format.
 
 Connect everything as shown in the following image:
 
-![](train_sound_box/master/train_controller_fritzing_1.PNG)
+![](images/train_controller_fritzing_1.PNG)
 
 I have uploaded the Fritzing file too just in case.
 
