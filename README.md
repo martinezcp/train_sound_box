@@ -36,7 +36,7 @@ Main folder should contain the different options of the base menu. I have not be
 
 Inside of each folder you should fill it up with the different sounds. Here you need to use 2 zero left padding for number and, after a space, you can use a descriptor name:
 
-![](train_sound_box/master/songs_in_folder.PNG)
+<img src="./train_sound_box/master/songs_in_folder.PNG" width="50%" />
 
 Each song must be in MP3 format.
 
